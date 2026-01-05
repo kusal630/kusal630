@@ -1,5 +1,5 @@
 -  Hi, I’m Kusal
--  I’m interested in building efficient ai models for everyu day use 
+-  I’m interested in building efficient ai models for every day use 
 -  I’m currently pursuing BTECH
 -  I’m looking to participate in competions and hackatons where i can show my potential
 -  Reach me through my linkedin profile
