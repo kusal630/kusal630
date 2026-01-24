@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Premium red gradient name, fully visible in all modes -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient-red&height=180&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=40&fontColor=FFFFFF" width="100%"/>
+<!-- Premium bright cyan/teal gradient with WHITE text - fully visible -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=180&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=40&fontColor=FFFFFF" width="100%"/>
 
 **kusal630**
 
@@ -76,8 +76,8 @@ n8n - Docker - Kaggle - Google Colab
 
 <div align="center">
 
-<!-- Animated wave line that actually works in GitHub -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FF1744&height=80&section=footer" width="60%"/>
+<!-- Animated glowing line that actually moves -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%"/>
 
 </div>
 
