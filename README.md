@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0D7377&height=180&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=180&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=40" width="100%"/>
 
 **kusal630**
 
@@ -29,8 +29,8 @@ AI & Data Science Student | Automation Builder
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-lightblue?style=flat&logo=kaggle)](https://www.kaggle.com/kusal630)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkata-naga-kusal-kotte-314268240)
+[![Kaggle](https://img.shields.io/badge/Kaggle-lightblue?style=flat&logo=kaggle)](https://www.kaggle.com/venkatanagakusal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/xRwup3WDdQ/)
 
 ---
@@ -46,7 +46,7 @@ AI & Data Science Student | Automation Builder
 
 ## 🛠️ Skills
 
-Python - C - scikit-learn - Pandas
+Python - C - scikit-learn - Pandas  
 n8n - Docker - Kaggle - Google Colab
 
 ---
@@ -72,6 +72,12 @@ n8n - Docker - Kaggle - Google Colab
 
 > *"Discipline is choosing between what you want now, and what you want most."*  
 > **— Built real solutions from college problems**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=footer" width="60%"/>
+
+</div>
 
 ---
 
