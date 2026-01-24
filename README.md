@@ -23,7 +23,7 @@ AI & Data Science Student | Automation Builder
 | 🎓 Education | BTech AI/DS 2nd Year |
 | 💼 What I Do | ML Models + n8n Automations |
 | 📍 Location | Tamil Nadu, India |
-| 📧 Contact | kottekvnkusal@gmail.com |
+| 📧 Contact | [kottekvnkusal@gmail.com](mailto:kottekvnkusal@gmail.com) |
 
 ---
 
@@ -49,8 +49,6 @@ AI & Data Science Student | Automation Builder
 Python - C - scikit-learn - Pandas
 n8n - Docker - Kaggle - Google Colab
 
-text
-
 ---
 
 ## 📈 Stats
@@ -72,14 +70,13 @@ text
 - Docker deployment
 - LeetCode daily
 
-**Built real solutions from college problems.**
+> *"Discipline is choosing between what you want now, and what you want most."*  
+> **— Built real solutions from college problems**
 
 ---
 
 <div align="center">
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=kusal630?theme=dark&hide_border=true)
-
-**Email: kottekvnkusal@gmail.com**
+**Email: [kottekvnkusal@gmail.com](mailto:kottekvnkusal@gmail.com)**
 
 </div>
