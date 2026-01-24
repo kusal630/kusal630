@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=%230D7377&height=180&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=40&textColor=FFD700&animation=fadeIn" width="100%"/>
+<!-- Premium red gradient name, fully visible in all modes -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient-red&height=180&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=40&fontColor=FFFFFF" width="100%"/>
 
 **kusal630**
 
@@ -75,22 +76,13 @@ n8n - Docker - Kaggle - Google Colab
 
 <div align="center">
 
-```html
-<div style="width: 70%; height: 4px; background: linear-gradient(90deg, #FFD700, #FFA500, #FF6B35, #FFD700); border-radius: 2px; margin: 30px auto; animation: pulseGlow 2s ease-in-out infinite alternate;"></div>
+<!-- Animated wave line that actually works in GitHub -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FF1744&height=80&section=footer" width="60%"/>
 
-<style>
-@keyframes pulseGlow {
-  0% { 
-    box-shadow: 0 0 10px #FFD700, 0 0 20px #FFA500;
-    transform: scaleX(1);
-  }
-  100% { 
-    box-shadow: 0 0 20px #FFD700, 0 0 40px #FFA500, 0 0 60px #FF6B35;
-    transform: scaleX(1.05);
-  }
-}
-</style>
-</div> <div align="center">
-Email: kottekvnkusal@gmail.com
+</div>
 
-</div> ```
+<div align="center">
+
+**Email: [kottekvnkusal@gmail.com](mailto:kottekvnkusal@gmail.com)**
+
+</div>
