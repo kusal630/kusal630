@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- 🎯 NAME ANIMATION #1 - START -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=KUSAL630&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=28&desc=kusal630&descSize=35&descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Venkata+Naga+Kusal+Kotte;AI+%26+Data+Science+Student;Machine+Learning+Engineer;Automation+Architect;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Automation+Architect;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kusal630&color=blueviolet&style=for-the-badge)
 
@@ -41,7 +41,7 @@
 <div align="center">
 
 <!-- 🎯 NAME ANIMATION #2 - MIDDLE -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=32&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=KUSAL630;Automation+%2B+AI+%2B+ML)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=120&section=header&text=kusal630&fontSize=50&fontColor=ffffff&animation=blinking" width="100%"/>
 
 </div>
 
@@ -88,25 +88,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=kusal630&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 💭 Philosophy
-
-> *"Discipline is choosing between what you want now and what you want most."*
-
-Learning AI/DS isn't just about algorithms—it's about building systems that create value. Every automation saves time. Every model solves a problem. Every line of code is progress.
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kusal630&theme=tokyo-night&hide_border=true&area=true)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kusal630&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -122,17 +104,31 @@ Learning AI/DS isn't just about algorithms—it's about building systems that cr
 
 ---
 
+## 📈 Activity Graph
+
 <div align="center">
 
-<!-- 🎯 NAME ANIMATION #3 - END -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,20&height=150&section=footer&text=Built+by+KUSAL630&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=60" width="100%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kusal630&theme=tokyo-night&hide_border=true&area=true)
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
-![AI & DS](https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-blue?style=for-the-badge)
+</div>
 
-*"Every commit counts. Every automation matters. Every model learns."*
+---
+
+## 💭 Philosophy
+
+> *"Discipline is choosing between what you want now and what you want most."*
+
+Learning AI/DS isn't just about algorithms—it's about building systems that create value. Every automation saves time. Every model solves a problem. Every line of code is progress.
+
+**The difference between who you are and who you want to be is what you do.**
+
+---
+
+<div align="center">
+
+<!-- 🎯 NAME ANIMATION #3 - END (IMPACTFUL) -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=250&section=footer&text=KUSAL630&fontSize=70&fontColor=ffffff&animation=scaleIn&stroke=00D9FF&strokeWidth=2&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descSize=20&descAlignY=75" width="100%"/>
 
 **⭐ Star my repos if you find them useful!**
 
 </div>
-
