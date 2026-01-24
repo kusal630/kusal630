@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- 🎯 NAME ANIMATION #1 - START -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=28&desc=kusal630&descSize=35&descAlignY=55" width="100%"/>
+<!-- 🎯 NAME ANIMATION #1 - START (Psychologically Impactful Color) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=200&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+
+<h2>kusal630</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Automation+Architect;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
@@ -20,6 +22,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kusal630)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/xRwup3WDdQ/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kottekvnkusal@gmail.com)
 
@@ -40,8 +43,8 @@
 
 <div align="center">
 
-<!-- 🎯 NAME ANIMATION #2 - MIDDLE -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=120&section=header&text=kusal630&fontSize=50&fontColor=ffffff&animation=blinking" width="100%"/>
+<!-- 🎯 TECH ANIMATION - MIDDLE (Devices/Tech Icons) -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
 
 </div>
 
@@ -84,16 +87,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kusal630&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔥 Building **AI Agents** and workflow automations
@@ -126,8 +119,10 @@ Learning AI/DS isn't just about algorithms—it's about building systems that cr
 
 <div align="center">
 
-<!-- 🎯 NAME ANIMATION #3 - END (IMPACTFUL) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=250&section=footer&text=KUSAL630&fontSize=70&fontColor=ffffff&animation=scaleIn&stroke=00D9FF&strokeWidth=2&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descSize=20&descAlignY=75" width="100%"/>
+<!-- 🎯 IMPACTFUL ENDING ANIMATION (Not name - Inspirational) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Keep+Learning+•+Keep+Building+•+Keep+Growing&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=60" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
 **⭐ Star my repos if you find them useful!**
 
