@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=kusal630&color=blue)
+
 -  Hi, I’m Kusal
 -  I’m interested in building efficient ai models for every day use 
 -  I’m currently pursuing BTECH
