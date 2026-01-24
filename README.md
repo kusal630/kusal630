@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient-gold&height=180&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=40&textColor=FFD700" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=%230D7377&height=180&section=header&text=Venkata+Naga+Kusal+Kotte&fontSize=40&textColor=FFD700&animation=fadeIn" width="100%"/>
 
 **kusal630**
 
@@ -75,25 +75,22 @@ n8n - Docker - Kaggle - Google Colab
 
 <div align="center">
 
-<div style="width: 60%; height: 3px; background: linear-gradient(90deg, #FFD700, #FFA500, #FFD700); border-radius: 2px; margin: 25px auto; animation: shimmer 2s ease-in-out infinite;">
-  <div style="width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent); border-radius: 2px; animation: glow 1.5s ease-in-out infinite;"></div>
-</div>
+```html
+<div style="width: 70%; height: 4px; background: linear-gradient(90deg, #FFD700, #FFA500, #FF6B35, #FFD700); border-radius: 2px; margin: 30px auto; animation: pulseGlow 2s ease-in-out infinite alternate;"></div>
 
 <style>
-@keyframes shimmer {
-  0%, 100% { box-shadow: 0 0 5px #FFD700; }
-  50% { box-shadow: 0 0 20px #FFD700, 0 0 30px #FFA500; }
-}
-@keyframes glow {
-  0%, 100% { transform: translateX(-100%); }
-  50% { transform: translateX(100%); }
+@keyframes pulseGlow {
+  0% { 
+    box-shadow: 0 0 10px #FFD700, 0 0 20px #FFA500;
+    transform: scaleX(1);
+  }
+  100% { 
+    box-shadow: 0 0 20px #FFD700, 0 0 40px #FFA500, 0 0 60px #FF6B35;
+    transform: scaleX(1.05);
+  }
 }
 </style>
+</div> <div align="center">
+Email: kottekvnkusal@gmail.com
 
-</div>
-
-<div align="center">
-
-**Email: [kottekvnkusal@gmail.com](mailto:kottekvnkusal@gmail.com)**
-
-</div>
+</div> ```
