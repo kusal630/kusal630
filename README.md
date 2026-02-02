@@ -63,9 +63,9 @@ n8n - Docker - Kaggle - Google Colab
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kusal630&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=kusal630&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusal630&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusal630&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -78,8 +78,12 @@ n8n - Docker - Kaggle - Google Colab
 - Docker deployment
 - LeetCode daily
 
+<div align="center">
+
 > *"Discipline is choosing between what you want now, and what you want most."*  
 > **— Built real solutions from college problems**
+
+</div>
 
 <div align="center">
 
