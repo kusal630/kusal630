@@ -63,9 +63,8 @@ n8n - Docker - Kaggle - Google Colab
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/kusal630?style=for-the-badge&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/kusal630?style=for-the-badge&logo=github)
-![Top Language](https://img.shields.io/github/languages/top/kusal630/kusal630?style=for-the-badge)
+![](https://img.shields.io/badge/Languages-Python%20%7C%20C%20%7C%20C++-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kusal630&query=$.public_repos&label=Repositories&style=for-the-badge&logo=github&color=green)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kusal630&theme=github_dark)
 
@@ -101,4 +100,3 @@ n8n - Docker - Kaggle - Google Colab
 **Email: [kottekvnkusal@gmail.com](mailto:kottekvnkusal@gmail.com)**
 
 </div>
-
