@@ -16,7 +16,7 @@
 
 <div align="center">
 
-AI & Data Science Student | ML Engineer | Automation Builder
+AI & Data Science Student | ML Enthusiast | Automation Builder
 
 ![Views](https://komarev.com/ghpvc/?username=kusal630)
 
@@ -63,9 +63,9 @@ n8n - Docker - Kaggle - Google Colab
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/badge/Repos-10+-blue?style=for-the-badge)
-![GitHub Stats](https://img.shields.io/badge/Commits-500+-green?style=for-the-badge)
-![GitHub Stats](https://img.shields.io/badge/Languages-Python%20|%20C-yellow?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/kusal630?style=for-the-badge&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/kusal630?style=for-the-badge&logo=github)
+![Top Language](https://img.shields.io/github/languages/top/kusal630/kusal630?style=for-the-badge)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kusal630&theme=github_dark)
 
@@ -78,7 +78,7 @@ n8n - Docker - Kaggle - Google Colab
 - AI Agents & n8n workflows
 - ML algorithms (clustering, trees)
 - Docker deployment
-- LeetCode daily
+- Kaggle competitions & datasets
 
 ---
 
@@ -101,3 +101,4 @@ n8n - Docker - Kaggle - Google Colab
 **Email: [kottekvnkusal@gmail.com](mailto:kottekvnkusal@gmail.com)**
 
 </div>
+
