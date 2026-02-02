@@ -16,7 +16,7 @@
 
 <div align="center">
 
-AI & Data Science Student | Automation Builder
+AI & Data Science Student | ML Engineer | Automation Builder
 
 ![Views](https://komarev.com/ghpvc/?username=kusal630)
 
@@ -48,7 +48,7 @@ AI & Data Science Student | Automation Builder
 1. **Feedback Automation** - n8n filters ratings → emails → Google Sheets
 2. **Zoom Notes** - AI processes meeting notes
 3. **ML Models** - K-Means, PCA, Decision Trees
-4. **Algorithms** - Daily LeetCode practice
+4. **Data Science Competitions** - Active on Kaggle datasets & challenges
 
 ---
 
@@ -79,6 +79,8 @@ n8n - Docker - Kaggle - Google Colab
 - ML algorithms (clustering, trees)
 - Docker deployment
 - LeetCode daily
+
+---
 
 <div align="center">
 
