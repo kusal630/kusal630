@@ -84,7 +84,6 @@ n8n - Docker - Kaggle - Google Colab
 <div align="center">
 
 > *"Discipline is choosing between what you want now, and what you want most."*  
-> **— Built real solutions from college problems**
 
 </div>
 
