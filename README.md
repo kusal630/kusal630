@@ -24,7 +24,7 @@ AI & Data Science Student | ML Enthusiast | Automation Builder
 
 ---
 
-## 📊 At A Glance
+## At A Glance
 
 | Info | Details |
 |------|---------|
@@ -35,7 +35,7 @@ AI & Data Science Student | ML Enthusiast | Automation Builder
 
 ---
 
-## 🔗 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkata-naga-kusal-kotte-314268240)
 [![Kaggle](https://img.shields.io/badge/Kaggle-lightblue?style=flat&logo=kaggle)](https://www.kaggle.com/venkatanagakusal)
@@ -43,7 +43,7 @@ AI & Data Science Student | ML Enthusiast | Automation Builder
 
 ---
 
-## 🚀 Projects
+## Projects
 
 1. **Feedback Automation** - n8n filters ratings → emails → Google Sheets
 2. **Zoom Notes** - AI processes meeting notes
@@ -52,14 +52,14 @@ AI & Data Science Student | ML Enthusiast | Automation Builder
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 Python - C - scikit-learn - Pandas  
 n8n - Docker - Kaggle - Google Colab
 
 ---
 
-## 📈 Stats
+## Stats
 
 <div align="center">
 
@@ -72,7 +72,7 @@ n8n - Docker - Kaggle - Google Colab
 
 ---
 
-## 🎯 Focus
+## Focus
 
 - AI Agents & n8n workflows
 - ML algorithms (clustering, trees)
