@@ -1,88 +1,90 @@
-<h1 align="center">Venkata Naga Kusal Kotte</h1>
-<h3 align="center">I build things with data, models, and code — and I ship them fast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/venkata-naga-kusal-kotte-314268240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/venkatanagakusal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:kottekvnkusal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+# Venkata Naga Kusal Kotte
 
----
+</div>
 
-### About me
+```
+$ whoami
+AI & Data Science undergrad, Shiv Nadar University Chennai (2028)
 
-I'm a second-year AI & Data Science student at Shiv Nadar University Chennai, and most of what's in this profile exists because I got curious about something and decided to build it instead of just reading about it.
+$ cat current_focus.txt
+LLM agents, ML pipelines, and the gap between "it works on my machine"
+and "a stranger could open this and use it"
 
-That curiosity took me to IIT Jammu's Gen AI & AI Agents Winter School, where I built an LLM-powered study assistant from scratch using Python and the OpenAI API — my first real introduction to prompt design and the practical mess of managing conversation context instead of just calling an API once and calling it a day. It also pushed me into automation, where I started wiring LLMs into n8n pipelines instead of writing every integration by hand.
-
-Since then I've been trying to close the loop on the full pipeline — not just training a model, but getting it in front of someone through a working interface, a secure backend, or a deployed app. That's the thread running through the projects below: less "notebook that runs once," more "thing a stranger could actually open and use."
-
-Ranked top 100 globally in the Shell.ai Hackathon on Kaggle, predicting fuel properties with gradient-boosted models — proof that the theory-heavy coursework does eventually turn into something that works on real data.
-
----
-
-### What I reach for
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-</p>
+$ git log --oneline --graph
+* Dec 2025 - Mar 2026   Built a study assistant agent at IIT Jammu's
+|                       Gen AI & AI Agents Winter School
+* ongoing               Predictive Maintenance Scheduling System
+|                       (full-stack, 21-table Postgres schema)
+* Kaggle                Shell.ai Hackathon - top 100 globally,
+                        fuel property prediction
+```
 
 ---
 
-### Things I've built
+## The short version
 
-**Predictive Maintenance Scheduling System**
-A full-stack ML project I keep coming back to — a 21-table PostgreSQL schema on Supabase, a React frontend, and a Python pipeline underneath that predicts equipment failure. Most of the real work was making sure the SRS docs, the ER/UML diagrams, and the actual schema all told the same story, which turned out to be harder than writing the ML code.
-`React` · `Python` · `PostgreSQL` · `Supabase`
+I got into this field the way most people probably do — by being annoyed that a tutorial stopped right before the interesting part. So instead of finishing another course, I started building the thing myself and figuring out the interesting part the hard way.
 
-**PollyGlot**
-A translation tool that taught me a lesson about API keys the hard way — or rather, before I could make the mistake. All OpenAI calls run through a backend server, so the key never touches the frontend. Small project, but it's the pattern I now default to for anything AI-integrated.
-`Node.js` · `Express` · `OpenAI API`
+That's more or less the pattern behind everything below. A translation app that taught me why API keys don't belong in frontend code. A study assistant that taught me conversation context doesn't manage itself. An automation pipeline that taught me half of "integration engineering" is just wiring the right triggers to the right conditions.
 
-**Movie Watchlist**
-A movie discovery app built around a public movie API, with everything persisted locally in the browser instead of a database — your watchlist stays on your device. Built with an accessibility-first mindset: semantic HTML, ARIA labels, full keyboard navigation.
-`JavaScript` · `REST API` · `Accessibility`
-
-**Study Assistant AI Agent** — built during the IIT Jammu Winter School
-An agent that holds a real conversation about your study material instead of answering once and forgetting everything. The interesting part wasn't the API call — it was figuring out how to manage context across turns and keep the prompt disciplined enough not to wander.
-`Python` · `OpenAI API` · `Gradio`
-
-**n8n Automation Pipelines**
-A University Management System and a Student Feedback Sentiment pipeline, both built around the idea that not every integration needs custom glue code — webhook triggers, conditional branches, and an LLM node in the middle can do a lot of the work.
-`n8n` · `OpenAI API` · `Webhooks`
-
-**FuelPropertiesPredictor**
-The project behind my Shell.ai Hackathon result — gradient-boosted models (XGBoost, CatBoost, LightGBM) predicting fuel properties from raw data. Less about any single model and more about the grind of feature engineering and validation that got it into the top 100 globally.
-`XGBoost` · `CatBoost` · `LightGBM`
+None of it was assigned. All of it was because I wanted to see if I could.
 
 ---
 
-### A rough picture of how I code
+## Field notes from each project
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kusal630&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusal630&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<table>
+<tr><th width="30%">Project</th><th>What actually happened</th></tr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusal630&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<tr>
+<td><b>Predictive Maintenance<br>Scheduling System</b></td>
+<td>Started as a DBMS assignment, turned into a full-stack rabbit hole. React frontend, Python backend, a 21-table Postgres schema on Supabase, and an ML pipeline predicting equipment failure underneath it all. The unglamorous truth: most of the effort went into making the SRS docs, the ER diagrams, and the actual schema agree with each other — not into the ML.<br><code>React · Python · PostgreSQL · Supabase</code></td>
+</tr>
+
+<tr>
+<td><b>PollyGlot</b></td>
+<td>A translation tool, but really an exercise in not being the person who leaks an API key on GitHub. Every OpenAI call routes through a backend server — the frontend never sees the key. Small project, but it's the pattern I now reach for by default.<br><code>Node.js · Express · OpenAI API</code></td>
+</tr>
+
+<tr>
+<td><b>Study Assistant Agent</b><br><i>— IIT Jammu Winter School</i></td>
+<td>Built during a Gen AI & AI Agents internship. The API call was the easy 10%. The rest was prompt discipline (keeping the model from wandering off-topic) and context management across turns, since the API itself remembers nothing between requests.<br><code>Python · OpenAI API · Gradio</code></td>
+</tr>
+
+<tr>
+<td><b>Movie Watchlist</b></td>
+<td>Pulls live data from a public movie API but keeps your watchlist entirely in <code>localStorage</code> — no backend, no database, your list never leaves your browser. Built accessibility-first: semantic HTML, ARIA labels, and a layout you can navigate with a keyboard alone.<br><code>JavaScript · REST API · Accessibility</code></td>
+</tr>
+
+<tr>
+<td><b>n8n Automation Pipelines</b></td>
+<td>A university management system and a student feedback sentiment pipeline, both built on the same idea: not every integration needs hand-written glue code. Webhook in, conditional routing, an LLM node in the middle, output out.<br><code>n8n · OpenAI API · Webhooks</code></td>
+</tr>
+
+<tr>
+<td><b>FuelPropertiesPredictor</b></td>
+<td>The project behind the Shell.ai Hackathon result. Gradient-boosted models predicting fuel properties from raw data — the leaderboard climb had less to do with picking a fancier model and more to do with grinding through feature engineering and validation.<br><code>XGBoost · CatBoost · LightGBM</code></td>
+</tr>
+
+</table>
 
 ---
 
-<p align="center">Always open to a conversation about AI, data, or the next thing worth building — <b>kottekvnkusal@gmail.com</b></p>
+## Currently
+
+```
+[####################----------] learning: LLM agent design, RAG pipelines
+[#####################---------] building: things people can actually open and use
+[###############---------------] debugging: my own assumptions, mostly
+```
+
 ---
 
-<p align="center">📫 Reach me at <b>kottekvnkusal@gmail.com</b> | Open to internships in AI/ML, Data Science, and Software Engineering</p>
+<div align="center">
+
+Reach out if you're building something interesting: **kottekvnkusal@gmail.com**
+[LinkedIn](https://linkedin.com/in/venkata-naga-kusal-kotte-314268240) · [Kaggle](https://kaggle.com/venkatanagakusal)
+
+</div>
