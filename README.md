@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kusal630/kusal630/main/assets/banner.svg" alt="Venkata Naga Kusal. Software that keeps your data on your device." width="100%">
+<img src="banner.svg" alt="Venkata Naga Kusal. Software that keeps your data on your device." width="100%">
 
 <br>
 
@@ -30,32 +30,37 @@ I build open source software for the parts of computing most people never questi
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<p><b><a href="https://github.com/kusal630/TIme-tracker">Soul Track</a></b><br>
+<p><img src="icon-soul-track.svg" width="44" height="44" alt=""><br>
+<b><a href="https://github.com/kusal630/TIme-tracker">Soul Track</a></b><br>
 <sub>Kotlin &nbsp;·&nbsp; Completed</sub></p>
 <p>A private time tracker that accounts for every second of your day and keeps all of it on the device. It produces a growth score and a breakdown of where your time went, and includes a to-do list with a Pomodoro timer.</p>
 <p>It also notices when you've been in your comfort zone for too long and says so.</p>
 </td>
 <td width="50%" valign="top">
-<p><b><a href="https://github.com/kusal630/local-cloud-storage">LocalVault</a></b><br>
+<p><img src="icon-localvault.svg" width="44" height="44" alt=""><br>
+<b><a href="https://github.com/kusal630/local-cloud-storage">LocalVault</a></b><br>
 <sub>Dart &nbsp;·&nbsp; Completed</sub></p>
 <p>Turns the SSD or phone storage you already own into a personal cloud you can reach from anywhere. No subscription, and no company holding your files.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><b><a href="https://github.com/kusal630/rethink-root-level-android">Rethink Root for Android</a></b><br>
+<p><img src="icon-rethink-root-android.svg" width="44" height="44" alt=""><br>
+<b><a href="https://github.com/kusal630/rethink-root-level-android">Rethink Root for Android</a></b><br>
 <sub>Kotlin &nbsp;·&nbsp; Completed</sub></p>
 <p>A fork of RethinkDNS, the Mozilla Builders Android app. The original filters traffic through a VPN tunnel. This version runs at kernel level with root privileges instead, offloads the firewall to the root level, and adds a power profile focused on battery life.</p>
 </td>
 <td width="50%" valign="top">
-<p><b><a href="https://github.com/kusal630/rethink-root-linux">Rethink Root for Linux</a></b><br>
+<p><img src="icon-rethink-root-linux.svg" width="44" height="44" alt=""><br>
+<b><a href="https://github.com/kusal630/rethink-root-linux">Rethink Root for Linux</a></b><br>
 <sub>Python &nbsp;·&nbsp; In progress</sub></p>
 <p>The same approach on the desktop: a system-wide DNS firewall with per-app blocking and a proxy, running with sudo or root on any Linux machine.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<p><b><a href="https://github.com/kusal630/purepad">PurePad</a></b><br>
+<p><img src="icon-purepad.svg" width="44" height="44" alt=""><br>
+<b><a href="https://github.com/kusal630/purepad">PurePad</a></b><br>
 <sub>Python &nbsp;·&nbsp; In development</sub></p>
 <p>A LineageOS-based build for the Realme Pad 1, with the goal of running Android 16 on a low-end tablet the manufacturer has moved on from. Not shipped yet, and it will be late.</p>
 </td>
