@@ -2,89 +2,121 @@
 
 # Venkata Naga Kusal Kotte
 
+**AI and Data Science undergrad. I build tools that run close to the metal and keep your data yours.**
+
+Shiv Nadar University Chennai, class of 2028
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-kottekvnkusal%40gmail.com-1f2328?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kottekvnkusal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-naga-kusal-kotte-314268240)
+[![Kaggle](https://img.shields.io/badge/Kaggle-venkatanagakusal-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/venkatanagakusal)
+
 </div>
 
-```
-$ whoami
-AI & Data Science undergrad, Shiv Nadar University Chennai (2028)
+<br>
 
-$ cat current_focus.txt
-LLM agents, ML pipelines, and the gap between "it works on my machine"
-and "a stranger could open this and use it"
+## About
 
-$ git log --oneline --graph
-* Dec 2025 - Mar 2026   Built a study assistant agent at IIT Jammu's
-|                       Gen AI & AI Agents Winter School
-* ongoing               Predictive Maintenance Scheduling System
-|                       (full-stack, 21-table Postgres schema)
-* Kaggle                Shell.ai Hackathon - top 100 globally,
-                        fuel property prediction
-```
+I got into this field because tutorials kept stopping right before the interesting part, so I started building the interesting part myself.
 
----
+Lately that has meant open source work on things I use every day: how my time is tracked, where my files live, and how my phone talks to the network. Most of it is Android and low-level, and most of it started as "this should work differently" before it became "fine, I'll do it."
 
-## The short version
+<br>
 
-I got into this field the way most people probably do — by being annoyed that a tutorial stopped right before the interesting part. So instead of finishing another course, I started building the thing myself and figuring out the interesting part the hard way.
-
-That's more or less the pattern behind everything below. A translation app that taught me why API keys don't belong in frontend code. A study assistant that taught me conversation context doesn't manage itself. An automation pipeline that taught me half of "integration engineering" is just wiring the right triggers to the right conditions.
-
-None of it was assigned. All of it was because I wanted to see if I could.
-
----
-
-## Field notes from each project
+## Open source work
 
 <table>
-<tr><th width="30%">Project</th><th>What actually happened</th></tr>
-
 <tr>
-<td><b>Predictive Maintenance<br>Scheduling System</b></td>
-<td>Started as a DBMS assignment, turned into a full-stack rabbit hole. React frontend, Python backend, a 21-table Postgres schema on Supabase, and an ML pipeline predicting equipment failure underneath it all. The unglamorous truth: most of the effort went into making the SRS docs, the ER diagrams, and the actual schema agree with each other — not into the ML.<br><code>React · Python · PostgreSQL · Supabase</code></td>
-</tr>
+<td width="50%" valign="top">
 
+### Soul Track
+![status](https://img.shields.io/badge/status-completed-2ea44f?style=flat-square)
+
+Tracks every second of your day, and none of it leaves your device. It gives you a growth score and a breakdown of where your time went, and it has a to-do list with a Pomodoro timer built in.
+
+It also tells you when you have been sitting in your comfort zone for too long. Plus motivational quotes, because sometimes you need one.
+
+</td>
+<td width="50%" valign="top">
+
+### LocalVault
+![status](https://img.shields.io/badge/status-completed-2ea44f?style=flat-square)
+
+Turns the SSD or phone storage you already own into your own cloud. Reach your files from anywhere, without paying a provider to hold them.
+
+It covers the usual cloud features, and the storage stays in your hands.
+
+</td>
+</tr>
 <tr>
-<td><b>PollyGlot</b></td>
-<td>A translation tool, but really an exercise in not being the person who leaks an API key on GitHub. Every OpenAI call routes through a backend server — the frontend never sees the key. Small project, but it's the pattern I now reach for by default.<br><code>Node.js · Express · OpenAI API</code></td>
-</tr>
+<td width="50%" valign="top">
 
+### RethinkDNS, root mode for Android
+![status](https://img.shields.io/badge/status-completed-2ea44f?style=flat-square)
+
+RethinkDNS is an Android app from Mozilla Builders. The stock version filters traffic through a VPN tunnel. I added a root mode so it runs at kernel level with root privileges and no tunnel at all.
+
+</td>
+<td width="50%" valign="top">
+
+### RethinkDNS for Linux
+![status](https://img.shields.io/badge/status-in%20progress-f0ad4e?style=flat-square)
+
+Bringing the same idea to desktop Linux. Active work, not finished.
+
+</td>
+</tr>
 <tr>
-<td><b>Study Assistant Agent</b><br><i>— IIT Jammu Winter School</i></td>
-<td>Built during a Gen AI & AI Agents internship. The API call was the easy 10%. The rest was prompt discipline (keeping the model from wandering off-topic) and context management across turns, since the API itself remembers nothing between requests.<br><code>Python · OpenAI API · Gradio</code></td>
-</tr>
+<td colspan="2" valign="top">
 
-<tr>
-<td><b>Movie Watchlist</b></td>
-<td>Pulls live data from a public movie API but keeps your watchlist entirely in <code>localStorage</code> — no backend, no database, your list never leaves your browser. Built accessibility-first: semantic HTML, ARIA labels, and a layout you can navigate with a keyboard alone.<br><code>JavaScript · REST API · Accessibility</code></td>
-</tr>
+### PurePad
+![status](https://img.shields.io/badge/status-in%20development-f0ad4e?style=flat-square)
 
-<tr>
-<td><b>n8n Automation Pipelines</b></td>
-<td>A university management system and a student feedback sentiment pipeline, both built on the same idea: not every integration needs hand-written glue code. Webhook in, conditional routing, an LLM node in the middle, output out.<br><code>n8n · OpenAI API · Webhooks</code></td>
-</tr>
+A LineageOS-based build for the Realme Pad 1, aimed at getting Android 16 running on low-end hardware that the manufacturer stopped caring about. It is still in development, and it is going to take longer than I planned.
 
-<tr>
-<td><b>FuelPropertiesPredictor</b></td>
-<td>The project behind the Shell.ai Hackathon result. Gradient-boosted models predicting fuel properties from raw data — the leaderboard climb had less to do with picking a fancier model and more to do with grinding through feature engineering and validation.<br><code>XGBoost · CatBoost · LightGBM</code></td>
+</td>
 </tr>
-
 </table>
 
----
+<br>
 
-## Currently
+## Earlier projects
 
-```
-[####################----------] learning: LLM agent design, RAG pipelines
-[#####################---------] building: things people can actually open and use
-[###############---------------] debugging: my own assumptions, mostly
-```
+| Project | What happened | Stack |
+|---|---|---|
+| **FuelPropertiesPredictor** | Predicting fuel properties for the Shell.ai Hackathon, where I finished in the top 100 globally. The climb came from feature engineering and careful validation, not from a fancier model. | XGBoost, CatBoost, LightGBM |
+| **Predictive Maintenance Scheduling System** | Began as a DBMS assignment and grew into a full-stack app with a 21-table Postgres schema and an ML pipeline that predicts equipment failure. Most of the time went into making the SRS, the ER diagrams and the real schema agree. | React, Python, PostgreSQL, Supabase |
+| **Study Assistant Agent** | Built at IIT Jammu's Gen AI and AI Agents Winter School (Dec 2025 to Mar 2026). The API call was the easy part. Keeping the model on topic and managing context across turns took the rest. | Python, OpenAI API, Gradio |
+| **PollyGlot** | A translation app, mostly an exercise in never leaking an API key. Every OpenAI call goes through a backend, so the frontend never sees the key. | Node.js, Express, OpenAI API |
+| **Movie Watchlist** | Live data from a public movie API, with the watchlist kept in `localStorage` so it never leaves your browser. Semantic HTML, ARIA labels, fully keyboard-navigable. | JavaScript, REST API |
+| **n8n Automation Pipelines** | A university management system and a student feedback sentiment pipeline. Webhook in, conditional routing, an LLM node in the middle, result out. | n8n, OpenAI API, Webhooks |
 
----
+<br>
+
+## Right now
+
+- Finishing RethinkDNS for Linux
+- Working on PurePad
+- Reading up on LLM agent design and RAG pipelines
+
+<br>
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1f2328?style=flat-square&logo=linux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white)
+
+<br>
 
 <div align="center">
 
-Reach out if you're building something interesting: **kottekvnkusal@gmail.com**
-[LinkedIn](https://linkedin.com/in/venkata-naga-kusal-kotte-314268240) · [Kaggle](https://kaggle.com/venkatanagakusal)
+If you are working on something interesting, write to me at **kottekvnkusal@gmail.com**.
 
 </div>
