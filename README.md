@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Kusal Kotte. Software that keeps your data on your device." width="100%">
+<img src="https://raw.githubusercontent.com/kusal630/kusal630/main/assets/banner.svg" alt="Kusal Kotte. Software that keeps your data on your device." width="100%">
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-naga-kusal-kotte-314268240)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/venkatanagakusal)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kottekvnkusal@gmail.com)
+<a href="https://linkedin.com/in/venkata-naga-kusal-kotte-314268240">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://kaggle.com/venkatanagakusal">Kaggle</a> &nbsp;·&nbsp;
+<a href="mailto:kottekvnkusal@gmail.com">Email</a>
 
-[Work](#selected-work) &nbsp;·&nbsp; [How Rethink Root works](#how-rethink-root-works) &nbsp;·&nbsp; [Background](#background) &nbsp;·&nbsp; [Earlier projects](#earlier-projects)
+<br>
+
+<a href="#selected-work">Work</a> &nbsp;·&nbsp;
+<a href="#how-rethink-root-works">How Rethink Root works</a> &nbsp;·&nbsp;
+<a href="#background">Background</a> &nbsp;·&nbsp;
+<a href="#earlier-projects">Earlier projects</a>
 
 </div>
 
@@ -22,53 +27,37 @@ I build open source software for the parts of computing most people never questi
 
 ## Selected work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-**[Soul Track](https://github.com/kusal630/TIme-tracker)**
-<br>`Kotlin` &nbsp; ![completed](https://img.shields.io/badge/completed-2ea44f?style=flat-square)
-
-A private time tracker that accounts for every second of your day and keeps all of it on the device. It produces a growth score and a breakdown of where your time went, and includes a to-do list with a Pomodoro timer.
-
-It also notices when you've been in your comfort zone for too long and says so.
-
+<p><b><a href="https://github.com/kusal630/TIme-tracker">Soul Track</a></b><br>
+<sub>Kotlin &nbsp;·&nbsp; Completed</sub></p>
+<p>A private time tracker that accounts for every second of your day and keeps all of it on the device. It produces a growth score and a breakdown of where your time went, and includes a to-do list with a Pomodoro timer.</p>
+<p>It also notices when you've been in your comfort zone for too long and says so.</p>
 </td>
 <td width="50%" valign="top">
-
-**[LocalVault](https://github.com/kusal630/local-cloud-storage)**
-<br>`Dart` &nbsp; ![completed](https://img.shields.io/badge/completed-2ea44f?style=flat-square)
-
-Turns the SSD or phone storage you already own into a personal cloud you can reach from anywhere. No subscription, and no company holding your files.
-
+<p><b><a href="https://github.com/kusal630/local-cloud-storage">LocalVault</a></b><br>
+<sub>Dart &nbsp;·&nbsp; Completed</sub></p>
+<p>Turns the SSD or phone storage you already own into a personal cloud you can reach from anywhere. No subscription, and no company holding your files.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**[Rethink Root for Android](https://github.com/kusal630/rethink-root-level-android)**
-<br>`Kotlin` &nbsp; ![completed](https://img.shields.io/badge/completed-2ea44f?style=flat-square)
-
-A fork of RethinkDNS, the Mozilla Builders Android app. The original filters traffic through a VPN tunnel. This version runs at kernel level with root privileges instead, offloads the firewall to the root level, and adds a power profile focused on battery life.
-
+<p><b><a href="https://github.com/kusal630/rethink-root-level-android">Rethink Root for Android</a></b><br>
+<sub>Kotlin &nbsp;·&nbsp; Completed</sub></p>
+<p>A fork of RethinkDNS, the Mozilla Builders Android app. The original filters traffic through a VPN tunnel. This version runs at kernel level with root privileges instead, offloads the firewall to the root level, and adds a power profile focused on battery life.</p>
 </td>
 <td width="50%" valign="top">
-
-**[Rethink Root for Linux](https://github.com/kusal630/rethink-root-linux)**
-<br>`Python` &nbsp; ![in progress](https://img.shields.io/badge/in%20progress-f0ad4e?style=flat-square)
-
-The same approach on the desktop: a system-wide DNS firewall with per-app blocking and a proxy, running with sudo or root on any Linux machine.
-
+<p><b><a href="https://github.com/kusal630/rethink-root-linux">Rethink Root for Linux</a></b><br>
+<sub>Python &nbsp;·&nbsp; In progress</sub></p>
+<p>The same approach on the desktop: a system-wide DNS firewall with per-app blocking and a proxy, running with sudo or root on any Linux machine.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-
-**[PurePad](https://github.com/kusal630/purepad)**
-<br>`Python` &nbsp; ![in development](https://img.shields.io/badge/in%20development-f0ad4e?style=flat-square)
-
-A LineageOS-based build for the Realme Pad 1, with the goal of running Android 16 on a low-end tablet the manufacturer has moved on from. Not shipped yet, and it will be late.
-
+<p><b><a href="https://github.com/kusal630/purepad">PurePad</a></b><br>
+<sub>Python &nbsp;·&nbsp; In development</sub></p>
+<p>A LineageOS-based build for the Realme Pad 1, with the goal of running Android 16 on a low-end tablet the manufacturer has moved on from. Not shipped yet, and it will be late.</p>
 </td>
 </tr>
 </table>
@@ -79,16 +68,12 @@ A LineageOS-based build for the Realme Pad 1, with the goal of running Android 1
 
 Stock RethinkDNS needs a VPN tunnel to see your traffic. Root mode removes the tunnel and moves enforcement into the kernel.
 
-```mermaid
-flowchart LR
-    subgraph stock [Stock RethinkDNS]
-        direction LR
-        A1[Apps] --> T[VPN tunnel] --> R[Filtering in the app] --> N1[Network]
-    end
-    subgraph root [Rethink Root]
-        direction LR
-        A2[Apps] --> K[Kernel-level rules, root] --> N2[Network]
-    end
+```text
+Stock RethinkDNS
+  Apps  →  VPN tunnel  →  Filtering in the app  →  Network
+
+Rethink Root
+  Apps  →  Kernel-level rules (root)  →  Network
 ```
 
 <br>
@@ -127,23 +112,17 @@ Also on GitHub: [world-notes](https://github.com/kusal630/world-notes) (handwrit
 
 ## Stack
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1f2328?style=flat-square&logo=linux&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white)
+| | |
+|---|---|
+| **Languages** | Kotlin, Dart, Python, TypeScript, JavaScript |
+| **Platforms** | Android, Linux, Flutter, Node.js, React |
+| **Data and ML** | PostgreSQL, Supabase, XGBoost, CatBoost, LightGBM |
+| **Automation** | n8n, OpenAI API |
 
 <br>
 
 <div align="center">
 
-Building something interesting? Write to me at **kottekvnkusal@gmail.com**.
+Building something interesting? Write to me at <b>kottekvnkusal@gmail.com</b>.
 
 </div>
