@@ -12,6 +12,8 @@
 
 <a href="#selected-work">Work</a> &nbsp;·&nbsp;
 <a href="#how-rethink-root-works">How Rethink Root works</a> &nbsp;·&nbsp;
+<a href="#privacy">Privacy</a> &nbsp;·&nbsp;
+<a href="#skills">Skills</a> &nbsp;·&nbsp;
 <a href="#background">Background</a> &nbsp;·&nbsp;
 <a href="#earlier-projects">Earlier projects</a>
 
@@ -83,6 +85,27 @@ Rethink Root
 
 <br>
 
+## Privacy
+
+I understand how companies collect personal data, from apps, operating systems and online services, and how to cut that collection down, including on stock Android where much of it happens by default. That knowledge shapes what I build.
+
+Soul Track keeps your time data on the device. LocalVault replaces hosted cloud storage with storage you own. Rethink Root blocks unwanted connections at the network layer, for the whole system or per app.
+
+<br>
+
+## Skills
+
+| | |
+|---|---|
+| **Full-stack** | React, Node.js, Express, Python backends, REST APIs, PostgreSQL, Supabase, webhooks, database and schema design |
+| **Mobile and systems** | Android (Kotlin), Flutter and Dart, Linux, root-level networking and firewalls |
+| **Machine learning** | Gradient-boosted models (XGBoost, CatBoost, LightGBM), feature engineering, validation, ML pipelines |
+| **Deep learning** | Training and experimenting with neural networks on Kaggle GPUs |
+| **Applied AI** | LLM agents, prompt and context management, OpenAI API, Gradio, n8n automation. Currently learning RAG pipelines |
+| **Privacy** | How data is collected by apps and platforms, and how to limit it: permissions, network filtering, on-device storage, self-hosting |
+
+<br>
+
 ## Background
 
 | | |
@@ -112,17 +135,6 @@ Rethink Root
 Also on GitHub: [world-notes](https://github.com/kusal630/world-notes) (handwriting-first notes with palm rejection, Flutter), [vellum](https://github.com/kusal630/vellum) (Kotlin), [razorpay_ai_buildaton_real_solution](https://github.com/kusal630/razorpay_ai_buildaton_real_solution) (TypeScript) and [web-dev](https://github.com/kusal630/web-dev) (JavaScript).
 
 </details>
-
-<br>
-
-## Stack
-
-| | |
-|---|---|
-| **Languages** | Kotlin, Dart, Python, TypeScript, JavaScript |
-| **Platforms** | Android, Linux, Flutter, Node.js, React |
-| **Data and ML** | PostgreSQL, Supabase, XGBoost, CatBoost, LightGBM |
-| **Automation** | n8n, OpenAI API |
 
 <br>
 
