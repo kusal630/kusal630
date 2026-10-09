@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kusal630/kusal630/main/assets/banner.svg" alt="Kusal Kotte. Software that keeps your data on your device." width="100%">
+<img src="https://raw.githubusercontent.com/kusal630/kusal630/main/assets/banner.svg" alt="Venkata Naga Kusal. Software that keeps your data on your device." width="100%">
 
 <br>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-I'm Venkata Naga Kusal Kotte, an AI and Data Science undergraduate at Shiv Nadar University Chennai, class of 2028.
+I'm Venkata Naga Kusal, an AI and Data Science undergraduate at Shiv Nadar University Chennai, class of 2028.
 
 I build open source software for the parts of computing most people never question: where your time data goes, who holds your files, and what sits between your phone and the network. Five of those projects are below. Three are finished, one is underway, and one is going slower than I'd like.
 
